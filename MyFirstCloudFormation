@@ -10,4 +10,4 @@ Resources:
       InstanceTenancy: default
       Tags: 
         - Key: name
-          Value: WebbMason
+          Value: Law-Web
